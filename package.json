@@ -15,7 +15,7 @@
   "overrides": {
     "react": "$react",
     "react-dom": "$react-dom",
-    "next": "$next"
+    "next": "15.2.6"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.1",
@@ -50,7 +50,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "15.0.0-canary.183",
+    "eslint-config-next": "15.2.6",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
